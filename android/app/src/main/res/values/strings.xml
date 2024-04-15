@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">arunfan_app</string>
+    <string name="facebook_app_id">810803937563988</string>
+    <string name="fb_login_protocol_scheme">fb810803937563988</string> <!-- (fb+facebook_app_id) -->
+    <string name="facebook_client_token">4479d1563654b4ffcbe9406b486ae18e</string>
+</resources>
